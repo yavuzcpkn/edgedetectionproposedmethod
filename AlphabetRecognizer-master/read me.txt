@@ -1,0 +1,4 @@
+First of all, it is recommended to examine the pictures in 'AlphabetRecognizer-master, src, res, trainingData, source' file. 
+Because all the letters and symbols just one image is in here. In this way, the examination can be done better. 
+Also, the images in the '50% small size' folder are %50 smaller than the original images. 
+In this way, edge detection success is better understood.
